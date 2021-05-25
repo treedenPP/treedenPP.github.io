@@ -104,5 +104,5 @@ theme: landscape
 deploy:
 - type: git
   # 下方的gh_token会被.travis.yml中sed命令替换
-  repo: https://gh_token@github.com/treedenPP/treedenPP.github.io
+  repo: https://gh_token@github.com/treedenPP/treedenPP.github.io.git
   branch: main
